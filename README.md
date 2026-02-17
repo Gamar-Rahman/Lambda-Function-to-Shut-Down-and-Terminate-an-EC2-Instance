@@ -1,7 +1,7 @@
 # Lambda-Function-to-Shut-Down-and-Terminate-an-EC2-Instance
 This lab demonstrates how to create and test an AWS Lambda function that can:  
-🛑 Stop (shut down) an EC2 instance 
-❌ Terminate an EC2 instance
+ 1- Stop (shut down) an EC2 instance 
+ 2- Terminate an EC2 instance
 
 📌 Lab Overview
 The lab also emphasizes secure IAM configuration, least privilege access, and Lambda test events for safe validation before production deployment.
